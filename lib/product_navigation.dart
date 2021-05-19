@@ -52,4 +52,14 @@ var productNavigationList = [
       color: Colors.red,
     ),
   ),
+  ProductNavigation(
+    name: 'Floppy Drive',
+    description: 'iPhone is the stylist phone ever',
+    imageAsset: 'images/floppy.jpg',
+    price: '90',
+    icons: Icon(
+      Icons.star_border,
+      color: Colors.red,
+    ),
+  ),
 ];
